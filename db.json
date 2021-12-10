@@ -2,7 +2,7 @@
   "city": {
     "name": "La Guajira"
   },
-  "poi":[
+  "listOfPlaces":[
   {
   "id": 1,
     "title": "Cabo de la Vela",
