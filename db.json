@@ -10,7 +10,7 @@
     "imageUrl": "https://www.arablog.co/wp-content/uploads/2018/09/guajira_cabo_vela_colombia_travel.jpg",
     "punctuation": "8/10",
     "temperature": "34°",
-    "ubication": "12.206425754906439, -72.1549361294906"
+    "location": "12.206425754906439, -72.1549361294906"
   },
   {
   "id": 2,
@@ -19,7 +19,7 @@
     "imageUrl": "https://pacifista.tv/wp-content/uploads/2018/09/tajo-cerrejon-1.jpg",
     "punctuation": "5/10",
     "temperature": "37°",
-    "ubication": "11.00978685157808, -72.67335113632944"
+    "location": "11.00978685157808, -72.67335113632944"
   },
   {
   "id": 3,
@@ -28,7 +28,7 @@
     "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMCFR75ExXgDZ0ZEMy9G88YXuUUDaps_334EYtH=w408-h306-k-no",
     "punctuation": "9/10",
     "temperature": "39°",
-    "ubication": "11.37595370333885, -72.2526481244926"
+    "location": "11.37595370333885, -72.2526481244926"
   },
   {
   "id": 4,
@@ -37,7 +37,7 @@
     "imageUrl": "https://img.lalr.co/cms/2018/11/23211225/Palomino-Colombia.jpg?size=xl&ratio=r40_21",
     "punctuation": "10/10",
     "temperature": "41°",
-    "ubication": "11.256858541065078, -73.5612416765409"
+    "location": "11.256858541065078, -73.5612416765409"
   }
 ]
 }
