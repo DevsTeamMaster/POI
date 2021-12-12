@@ -7,33 +7,37 @@
   "id": 1,
     "title": "Cabo de la Vela",
     "description": "En el extremo norte del territorio colombiano, en la región de La Guajira y antes de llegar a Punta Gallinas, se encuentra este destino imperdible a la hora de visitar nuestro país. Se trata de una de las playas más tranquilas y paradisíacas, ubicada en la zona desértica más amplia de Colombia que a su vez comparte con el Mar Caribe.\n\nSu privilegiada ubicación en el Caribe colombiano la hace acreedora de los más inolvidables paisajes, donde se encuentra la belleza de diferentes ecosistemas y las condiciones ideales para realizar actividades turísticas que te encantarán.",
-    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Cabo_de_la_Vela%2C_Colombia.jpg",
+    "imageUrl": "https://www.arablog.co/wp-content/uploads/2018/09/guajira_cabo_vela_colombia_travel.jpg",
     "punctuation": "8/10",
-    "temperature": "34°"
+    "temperature": "34°",
+    "ubication": "12.206425754906439, -72.1549361294906"
   },
   {
   "id": 2,
     "title": "El Cerrejon",
     "description": "El Cerrejón es la operación de minería de carbón de exportación abierto más grande del mundo. Localizada en la península y departamento de La Guajira, en el municipio de Barrancas, al noreste de Colombia y de Suramérica.La capacidad actual de producción de carbón se estima en 27.5 millones de toneladas métricas por año. Debido a su calidad competitiva y productiva se ha convertido en uno de los proveedores mayoritarios del mercado internacional, consolidándose así como: \"Operación de Clase Mundial\" que trae consigo progreso, bienestar, y un buen posicionamiento de Colombia a nivel internacional.",
-    "imageUrl": "",
+    "imageUrl": "https://pacifista.tv/wp-content/uploads/2018/09/tajo-cerrejon-1.jpg",
     "punctuation": "5/10",
-    "temperature": "37°"
+    "temperature": "37°",
+    "ubication": "11.00978685157808, -72.67335113632944"
   },
   {
   "id": 3,
     "title": "Maicao",
     "description": "Fue el principal centro de inmigración árabe en Colombia y posee el más importante puerto terrestre de La Guajira en donde se puede encontrar diversa mercancía proveniente de Venezuela.Otros atractivos de interés para el turista en Maicao son la laguna Majayura y la Catedral de San José.",
-    "imageUrl": "",
+    "imageUrl": "https://lh5.googleusercontent.com/p/AF1QipMCFR75ExXgDZ0ZEMy9G88YXuUUDaps_334EYtH=w408-h306-k-no",
     "punctuation": "9/10",
-    "temperature": "39°"
+    "temperature": "39°",
+    "ubication": "11.37595370333885, -72.2526481244926"
   },
   {
   "id": 4,
     "title": "Palomino",
     "description": "Con el Mar Caribe al norte, la Sierra Nevada de Santa Marta al sur, el río Palomino al oeste y el río San Salvador al este, Palomino conforma uno de los principales destinos turísticos de La Guajira, Colombia. Este pequeño pueblo de pescadores recibe cada año a miles de turistas que buscan diferentes cosas. Algunos llegan por su ambiente divertido, otros por sus enormes olas perfectas para hacer surf y otros por su increíble entorno natural.",
-    "imageUrl": "",
+    "imageUrl": "https://img.lalr.co/cms/2018/11/23211225/Palomino-Colombia.jpg?size=xl&ratio=r40_21",
     "punctuation": "10/10",
-    "temperature": "41°"
+    "temperature": "41°",
+    "ubication": "11.256858541065078, -73.5612416765409"
   }
 ]
 }
